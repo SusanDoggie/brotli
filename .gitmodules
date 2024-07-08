@@ -1,3 +1,4 @@
 [submodule "dependencies/brotli"]
 	path = dependencies/brotli
 	url = https://github.com/google/brotli.git
+	shallow = true
